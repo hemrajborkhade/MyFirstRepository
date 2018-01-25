@@ -13,3 +13,5 @@ Change - 5
 Change - 6
 
 New remote repo check
+
+git pull check
